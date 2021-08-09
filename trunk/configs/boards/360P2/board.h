@@ -1,8 +1,8 @@
-/* 360P2 */
+/* RT-AC1200 */
 
-#define BOARD_PID		"360P2"
-#define BOARD_NAME		"360P2"
-#define BOARD_DESC		"360 P2 Wireless Router"
+#define BOARD_PID		"RT-AC1200"
+#define BOARD_NAME		"RT-AC1200"
+#define BOARD_DESC		"RT-AC1200 Wireless Router"
 #define BOARD_VENDOR_NAME	"netcore"
 #define BOARD_VENDOR_URL	"http://luyou.360.cn"
 #define BOARD_MODEL_URL		"http://luyou.360.cn"
