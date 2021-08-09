@@ -2,10 +2,10 @@
 
 #define BOARD_PID		"RT-AC1200"
 #define BOARD_NAME		"RT-AC1200"
-#define BOARD_DESC		"RT-AC1200 Wireless Router"
-#define BOARD_VENDOR_NAME	"netcore"
-#define BOARD_VENDOR_URL	"http://luyou.360.cn"
-#define BOARD_MODEL_URL		"http://luyou.360.cn"
+#define BOARD_DESC		"ASUS RT-AC1200 Wireless Router"
+#define BOARD_VENDOR_NAME	"ASUSTek Computer Inc."
+#define BOARD_VENDOR_URL	"https://www.asus.com.cn/"
+#define BOARD_MODEL_URL		"https://www.asus.com.cn/Networking/RT-AC1200/"
 #define BOARD_BOOT_TIME		20
 #define BOARD_FLASH_TIME		120
 #define BOARD_GPIO_BTN_RESET	38
